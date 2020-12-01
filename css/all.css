@@ -135,9 +135,9 @@ a:hover{text-decoration:underline;}
 .wrapper-holder {
 	width:100%;
     display:table-row;
-    background: #50af6f;
+    background: purple;
 }
-.wrapper-holder.grey{background: #28292b;}
+.wrapper-holder.grey{background: rgb(134, 134, 224);}
 #header {
 	max-width: 1170px;
 	margin: 0 auto;
@@ -157,9 +157,9 @@ a:hover{text-decoration:underline;}
 .logo {
 	text-align:center;
 	font-family: 'novecentosanswide';
-	font-weight:bold;
+	
 	color: #fff;
-	font-size: 72px;
+	font-size: 62px;
 	line-height: 74px;
 	display: block;
 	text-transform: uppercase;
@@ -180,12 +180,12 @@ a:hover{text-decoration:underline;}
 }
 #nav ul li:first-child{padding: 0;}
 #nav ul a {
-	color: #aeecc2;
+	color: #f1c98e;
 	font-size: 18px;
 	line-height: 20px;
 	text-transform: uppercase;
 	padding: 0 0 10px;
-	border-bottom: 4px solid #62bb7f;
+	border-bottom: 4px solid orange;
 	font-family: 'novecentosanswide';
 	font-weight: normal;
 }
@@ -203,10 +203,10 @@ h2.slogan{
 	text-align: center;
 	text-transform: uppercase;
 	font-family: 'novecento_sans_widebook';
-	font-size: 30px;
-	line-height: 32px;
-	color: #aeecc2;
-	padding: 34px 0 50px 0;
+	font-size: 26px;
+	line-height: 10px;
+	color: rgb(185, 188, 236);
+	padding: 24px 0 50px 0;
 	background: url(../images/slogan_bg.gif) no-repeat 50% 0;
 }
 /*main
@@ -271,7 +271,7 @@ h2.slogan{
 }
 .box_timeline h3{
 	font-family: 'novecento_sans_widemedium';
-	color: #50af6f;
+	color: rgb(241, 202, 128);
 	font-size: 14px;
 	line-height: 16px;
 	display: block;
@@ -280,7 +280,7 @@ h2.slogan{
 }
 .box_timeline p{
 	font-family: Arial, Helvetica, sans-serif;
-	color: #a4a7ac;
+	color: white;
 	font-size: 16px;
 	line-height: 18px;
 	display: block;
@@ -396,7 +396,7 @@ h2.slogan{
 }
 .sub_nav a:hover,.sub_nav a.active{
 	color: #50af6f;
-	border-bottom: 4px solid #50af6f;
+	border-bottom: 4px solid blue;
 	text-decoration: none;
 	-webkit-transition: all 0.5s ease-in-out;
 -moz-transition: all 0.5s ease-in-out;
