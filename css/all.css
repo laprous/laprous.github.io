@@ -135,9 +135,9 @@ a:hover{text-decoration:underline;}
 .wrapper-holder {
 	width:100%;
     display:table-row;
-    background: purple;
+    background: #b300b3;
 }
-.wrapper-holder.grey{background: rgb(134, 134, 224);}
+.wrapper-holder.grey{background: #8a2be2;}
 #header {
 	max-width: 1170px;
 	margin: 0 auto;
@@ -180,12 +180,12 @@ a:hover{text-decoration:underline;}
 }
 #nav ul li:first-child{padding: 0;}
 #nav ul a {
-	color: #f1c98e;
+	color: #ffc14d;
 	font-size: 18px;
 	line-height: 20px;
 	text-transform: uppercase;
 	padding: 0 0 10px;
-	border-bottom: 4px solid orange;
+	border-bottom: 4px solid #ffc14d;
 	font-family: 'novecentosanswide';
 	font-weight: normal;
 }
@@ -271,7 +271,7 @@ h2.slogan{
 }
 .box_timeline h3{
 	font-family: 'novecento_sans_widemedium';
-	color: rgb(241, 202, 128);
+	color: #ffc14d;
 	font-size: 14px;
 	line-height: 16px;
 	display: block;
@@ -318,7 +318,7 @@ h2.slogan{
 	margin: 0 0 27px;
 }
 .progress li span{
-	background: #50af6f;
+	background: #b300b3;
 	color: #fff;
 	text-transform:uppercase;
 	display: block;
@@ -395,8 +395,8 @@ h2.slogan{
 	font-weight: normal;
 }
 .sub_nav a:hover,.sub_nav a.active{
-	color: #50af6f;
-	border-bottom: 4px solid blue;
+	color: #b300b3;
+	border-bottom: 4px solid #b300b3;
 	text-decoration: none;
 	-webkit-transition: all 0.5s ease-in-out;
 -moz-transition: all 0.5s ease-in-out;
@@ -416,8 +416,8 @@ transition: all 0.5s ease-in-out;
 	font-weight: normal;
 }
 .sub_nav li:hover,.sub_nav .active {
-	color: #50af6f;
-	border-bottom: 4px solid #50af6f;
+	color: #b300b3;
+	border-bottom: 4px solid #b300b3;
 	text-decoration: none;
 	cursor: pointer;
 	-webkit-transition: all 0.5s ease-in-out;
@@ -457,7 +457,7 @@ transition: all 0.5s ease-in-out;
     position: absolute;
     top: 0;
     width: 100%;
-    background: #6abb84;
+    background: #b300b3;
 	opacity: 0.9;
 	border-radius: 50%;
 	behavior: url(css/PIE.htc);
@@ -529,7 +529,7 @@ transition: all 0.5s ease-in-out;
     width:100%;
     overflow:hidden;
     display:table-footer-group;
-    background:#fff;
+    background:#ffc14d;
 }
 .footer-content {
 	max-width: 1170px;
@@ -548,7 +548,7 @@ transition: all 0.5s ease-in-out;
 	border-radius: 50%;
 	behavior: url(css/PIE.htc);
 	text-indent: -9999px;
-	background: #c6cfc9;
+	background: #8a2be2;
 	width: 123px;
 	height: 123px;
 	position:relative;
@@ -556,7 +556,7 @@ transition: all 0.5s ease-in-out;
 }
 .footer-content .social li:first-child{margin: 0;}
 .footer-content .social li:hover{
-	background: #50af6f;
+	background: #b300b3;
 	-webkit-transition: all 0.5s ease-in-out;
 -moz-transition: all 0.5s ease-in-out;
 -o-transition: all 0.5s ease-in-out;
